@@ -1,5 +1,3 @@
-# RiceRocks-Object-Oriented-Space-Game-Built-in-Python
-A Python-based 2D space shooter game using SimpleGUI, featuring a rotating ship, asteroids, and missile collisions.
 # Asteroid Survival: A Python Space Shooter Game
 
 **Asteroid Survival** is a 2D arcade-style space shooter game developed in Python using the SimpleGUI library. Inspired by the classic game *Asteroids*, this project demonstrates key programming concepts like object-oriented design, real-time animation, and interactive GUI development. Players control a spaceship to dodge and destroy incoming asteroids using missiles, aiming for the highest score while managing limited lives.
